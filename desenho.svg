@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400.0px"
+   height="400.0px"
+   viewBox="0 0 400.0 400.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="desenho.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview320"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.46324355"
+     inkscape:cx="396.11993"
+     inkscape:cy="214.78982"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid326" />
+  </sodipodi:namedview>
+  <defs
+     id="defs315" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000"
+       id="rect373"
+       width="20"
+       height="320"
+       x="200"
+       y="40" />
+    <rect
+       style="fill:#000000"
+       id="rect434"
+       width="40"
+       height="20"
+       x="160"
+       y="100" />
+    <rect
+       style="fill:#000000"
+       id="rect439"
+       width="40"
+       height="20"
+       x="160"
+       y="240" />
+  </g>
+</svg>
